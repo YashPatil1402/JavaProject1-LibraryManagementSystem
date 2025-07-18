@@ -1,4 +1,5 @@
 # JavaProject1-LibraryManagementSystem
+Project under development – Coming soon! Stay tuned.
 A library management system is software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates.
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/266e00ce-39d5-4aac-af21-0f2a57f54a43" />
